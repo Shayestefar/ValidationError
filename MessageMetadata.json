@@ -1,0 +1,894 @@
+﻿{
+  "salaryCalculationIsInProgress": {
+    "fa": "فرآیند محاسبه حقوق در حال اجرا می باشد",
+    "en": "Salary Calculation Is In Progress"
+  },
+  "unknown": {
+    "fa": "با پشتیبانی تماس بگیرید.",
+    "en": "contact support"
+  },
+  "type": {
+    "fa": " ماهیت",
+    "en": "Type"
+  },
+  "name": {
+    "fa": " نام",
+    "en": "Name"
+  },
+  "lastName": {
+    "fa": " نام خانوادگی",
+    "en": "LastName"
+  },
+  "educationalDegree": {
+    "fa": " مدرک تحصیلی",
+    "en": "EducationalDegree"
+  },
+  "nationalCode": {
+    "fa": " کد ملی",
+    "en": "NationalCode"
+  },
+  "email": {
+    "fa": " ایمیل",
+    "en": "Email"
+  },
+  "birthCertificateNo": {
+    "fa": " شماره شناسنامه",
+    "en": "BirthCertificateNo"
+  },
+  "calendarType": {
+    "fa": " نوع تقویم",
+    "en": "CalendarType"
+  },
+  "dayBase": {
+    "fa": " مبنای روز",
+    "en": "DayBase"
+  },
+  "personnelCode": {
+    "fa": " کد پرسنلی",
+    "en": "PersonnelCode"
+  },
+  "situation": {
+    "fa": "وضعیت",
+    "en": "Situation"
+  },
+  "insuranceJobCode": {
+    "fa": " کد شغل بیمه",
+    "en": "InsuranceJobCode"
+  },
+  "job": {
+    "fa": " شغل",
+    "en": "Job"
+  },
+  "organizationalPost": {
+    "fa": " پست سازمانی",
+    "en": "OrganizationalPost"
+  },
+  "contractType": {
+    "fa": " نوع قرارداد",
+    "en": "ContractType"
+  },
+  "inputBase": {
+    "fa": " مبنای ورود اطلاعات",
+    "en": "InputBase"
+  },
+  "organizationalUnit": {
+    "fa": "واحد سازمانی ",
+    "en": "OrganizationalUnit"
+  },
+  "condition": {
+    "fa": " شرط فرمول",
+    "en": "Condition"
+  },
+  "formulaMeta": {
+    "fa": " فرمول",
+    "en": "Formula"
+  },
+  "netSalary": {
+    "fa": " خالص پرداختنی",
+    "en": "NetSalary"
+  },
+  "personnelInfo": {
+    "fa": "اطلاعات پرسنل ",
+    "en": "PersonnelInfo"
+  },
+  "recruitmentDate": {
+    "fa": " تاریخ استخدام",
+    "en": "RecruitmentDate"
+  },
+  "workplace": {
+    "fa": " محل خدمت ",
+    "en": "Workplace"
+  },
+  "costcenter": {
+    "fa": "مرکز هزینه ",
+    "en": "Costcenter"
+  },
+  "suitablePersonnelAction": {
+    "fa": "حکم مناسب",
+    "en": "SuitablePersonnelAction"
+  },
+  "recruitmentTypePersonnelAction": {
+    "fa": "حکم استخدام",
+    "en": "RecruitmentTypePersonnelAction"
+  },
+  "adjustmentCreateDate": {
+    "fa": " تاریخ صدور حکم اصلاحیه",
+    "en": "AdjustmentCreateDate"
+  },
+  "lastPersonnelActionCreateDate": {
+    "fa": " تاریخ صدور آخرین حکم",
+    "en": "LastPersonnelActionCreateDate"
+  },
+  "loan": {
+    "fa": "وام",
+    "en": "Loan"
+  },
+  "person": {
+    "fa": "شخص",
+    "en": "Person"
+  },
+  "serviceEndDate": {
+    "fa": " تاریخ پایان کار",
+    "en": "ServiceEndDate"
+  },
+  "startDate": {
+    "fa": " تاریخ شروع",
+    "en": "StartDate"
+  },
+  "sickLeave": {
+    "fa": " مرخصی استعلاجی",
+    "en": "SickLeave"
+  },
+  "insuranceBranch": {
+    "fa": " شعبه بیمه",
+    "en": "InsuranceBranch"
+  },
+  "serviceEnd": {
+    "fa": " پایان خدمت",
+    "en": "ServiceEnd"
+  },
+  "taxCalculationMeta": {
+    "fa": " محاسبات مالیات",
+    "en": "TaxCalculation"
+  },
+  "insuranceCalculationMeta": {
+    "fa": " محاسبات بیمه",
+    "en": "InsuranceCalculation"
+  },
+  "insuranceConfigurationMeta": {
+    "fa": " تنظیمات بیمه",
+    "en": "InsuranceConfiguration"
+  },
+  "initialData": {
+    "fa": " اطلاعات استقراری",
+    "en": "InitialData"
+  },
+  "taxtable": {
+    "fa": "جدول مالیاتی",
+    "en": "TaxTable"
+  },
+  "personnelTax": {
+    "fa": " شعبه مالیات برای شخص",
+    "en": "PersonnelTax"
+  },
+  "lastMonth": {
+    "fa": " ماه گذشته  ",
+    "en": "LastMonth"
+  },
+  "paymentLocation": {
+    "fa": "محل پرداخت",
+    "en": "PaymentLocation"
+  },
+  "personnelBankAccountMeta": {
+    "fa": "حساب بانکی",
+    "en": "PersonnelBankAccount"
+  },
+  "bankAccountNo": {
+    "fa": "شماره حساب بانکی",
+    "en": "BankAccountNo"
+  },
+  "personnelCodeIsInCorrect": {
+    "fa": "کد پرسنلی صحیح نیست",
+    "en": "PersonnelCode Is InCorrect"
+  },
+  "existPersonnelAction": {
+    "fa": "حکم وجود دارد",
+    "en": "PersonnelAction is exist"
+  },
+  "existServiceEnd": {
+    "fa": "حکم پایان خدمت وجود دارد",
+    "en": "ServiceEnd is exist"
+  },
+  "theFormulaUsedDoesNotMatchTheCurrentStructure": {
+    "fa": " قلم های استفاده شده برای این نوع استخدام تعریف نشده است",
+    "en": "The Formula Used Does Not Match The Current Structure With This Recruitment Type"
+  },
+  "formulaStructureIsDuplicatedPerRecruitmentTypeAndYearAndMonth": {
+    "fa": "ساختار فرمول به ازای نوع استخدام و سال و ماه حقوق ودستمزد منحصر به فرد است",
+    "en": "The structure of the formula is unique per the RecruitmentType and the year and month of payroll"
+  },
+  "excelFileDoseNotContainAnyActionItem": {
+    "fa": "فایل اکسل حاوی اقلام حکمی نیست",
+    "en": "Excel File DoseNot Contain Any ActionItem"
+  },
+  "personnelActionTypeIsNotCorrect": {
+    "fa": "نوع حکم صحیح نیست.",
+    "en": "PersonnelActionType Is Not Correct"
+  },
+  "personnelInsuranceTax": {
+    "fa": "شعبه بیمه یا مالیات برای شخص",
+    "en": "PersonnelInsuranceTax"
+  },
+  "noMoreThanOneVerdictCanBeIssuedInOneDayMeta": {
+    "fa": "در یک روز نمی توان بیش از یک حکم صادر کرد",
+    "en": "No More Than One Verdict Can Be Issued In One Day"
+  },
+  "notAllPersonnelHaveCalculation": {
+    "fa": "برای بعضی از پرسنل در ماه جاری محاسبه حقوق انجام نشده است",
+    "en": "Some Personnel do not have salary calculation in current month"
+  },
+  "suitablePersonnelActionBeforeSelectedDate": {
+    "fa": "حکم مناسب قبل از تاریخ انتخاب شده",
+    "en": "Suitable Personnel Action Before the selected date"
+  },
+  "statusIsNotCompleted": {
+    "fa": "وضعیت شعبه بیمه پرسنل باید قطعی باشد.",
+    "en": "Status Is Not Completed"
+  },
+  "usedInPersonnelAction": {
+    "fa": " به دلیل استفاده در حکم مجاز به حذف نیستید",
+    "en": "Used In A Personnel Action"
+  },
+  "usedInActionItem": {
+    "fa": "به دلیل استفاده در اقلام حکمی مجاز به حذف نیستید",
+    "en": "Used In an Action Item"
+  },
+  "usedInOrganizationalPosition": {
+    "fa": "به دلیل استفاده از پست جاری به عنوان پست ناظر، قادر به حذف نمی باشید",
+    "en": "Used In an Organizational Position"
+  },
+  "manualLoanSettlementInNextMonthsMeta": {
+    "fa": "تسویه نقدی وام در ماه های آینده وجود دارد",
+    "en": "There is a cash calculation of the loan in the coming months"
+  },
+  "year": {
+    "fa": "سال",
+    "en": "Year"
+  },
+  "month": {
+    "fa": "ماه",
+    "en": "Month"
+  },
+  "code": {
+    "fa": "کد",
+    "en": "Code"
+  },
+  "title": {
+    "fa": "عنوان",
+    "en": "Title"
+  },
+  "salaryCalculation": {
+    "fa": "محاسبه حقوق",
+    "en": "Salary Calculation"
+  },
+  "calculation": {
+    "fa": "محاسبات",
+    "en": "Calculation"
+  },
+  "exist": {
+    "fa": "{0} وجود دارد",
+    "en": "{0} Exist"
+  },
+  "notExist": {
+    "fa": "{0} وجود ندارد",
+    "en": "{0} NotExist"
+  },
+  "applyDate": {
+    "fa": "تاریخ اجرا",
+    "en": "Apply Date"
+  },
+  "createDate": {
+    "fa": "تاریخ صدور",
+    "en": "Create Date"
+  },
+  "registerDate": {
+    "fa": " تاریخ ثبت",
+    "en": "RegisterDate"
+  },
+  "formulaBody": {
+    "fa": " عبارت فرمول",
+    "en": "FormulaBody"
+  },
+  "recruitmenttype": {
+    "fa": "نوع استخدام",
+    "en": "RecruitmentType"
+  },
+  "workedDays": {
+    "fa": " کارکرد موثر",
+    "en": "WorkedDays"
+  },
+  "systemDate": {
+    "fa": " تاریخ سیستم ",
+    "en": " SystemDate"
+  },
+  "workshopTitle": {
+    "fa": " عنوان کارگاه",
+    "en": "WorkshopTitle"
+  },
+  "defaultBranch": {
+    "fa": " شعبه پیش فرض",
+    "en": "DefaultBranch"
+  },
+  "workshopCode": {
+    "fa": "کد کارگاه",
+    "en": "WorkshopCode"
+  },
+  "personnelNotExists": {
+    "fa": "پرسنل با کد {0} در سیستم وجود ندارد",
+    "en": "Personnel with code {0} not exist"
+  },
+  "isGreaterThanToThe": {
+    "fa": "{0} باید بزرگتر از {1} باشد",
+    "en": "{0} must be Greater than to the {1}"
+  },
+  "isNotLessThanOrEqualToThe": {
+    "fa": "{0} باید کوچکتر یا مساوی {1} باشد",
+    "en": "{0} must be less than or equal to the {1}"
+  },
+  "isUniquePer": {
+    "fa": "{0} به ازای {1} و {2} منحصر به فرد است",
+    "en": "The {0} is unique for the {1} and {2}"
+  },
+  "theItemIsUniqueFor": {
+    "fa": "{0} به ازای {1}، {2} و {3} منحصر به فرد است",
+    "en": "The {0} is unique for the {1}, {2} and {3}"
+  },
+  "isZero": {
+    "fa": "{0} صفر است",
+    "en": "Is Zero {0}"
+  },
+  "successfulMessage": {
+    "fa": "اطلاعات با موفقیت ثبت شد",
+    "en": "Saved Successfully "
+  },
+  "duplicate": {
+    "fa": "{0} تکراری است",
+    "en": "{0} is Duplicate "
+  },
+  "duplicateWithTwoParameter": {
+    "fa": "{0} و {1} تکراری است",
+    "en": "{0} and {1} is Duplicate "
+  },
+  "isNull": {
+    "fa": "{0} خالی است",
+    "en": "{0} is Empty "
+  },
+  "enterThe": {
+    "fa": "{0} را وارد نمایید",
+    "en": "{0} Enter The "
+  },
+  "isIncorrectCharacterLength": {
+    "fa": "طول کاراکتر {0} نامعتبر است",
+    "en": "Character length {0} is Invalid"
+  },
+  "formatIsIncorrected": {
+    "fa": "فرمت {0} نامعتبر است",
+    "en": "{0} Format is Invalid"
+  },
+  "structureIsInvalid": {
+    "fa": "ساختار {0} نامعتبر است",
+    "en": "{0} Structure is Invalid"
+  },
+  "contentIsInvalid": {
+    "fa": "محتوی {0} نامعتبر است",
+    "en": "{0} Content is Invalid"
+  },
+  "thereCanBeOnlyOne": {
+    "fa": "فقط یک {0} میتواند وجود داشته باشد",
+    "en": "Only one {0} can exist"
+  },
+  "isNotCalculatedInCurrentMonth": {
+    "fa": "در ماه جاری {0} محاسبه نشده است",
+    "en": "The {0} is not calculated in current month"
+  },
+  "isOutOfRange": {
+    "fa": "{0} خارج از محدوده است",
+    "en": "The {0} is out of range"
+  },
+  "hasWarning": {
+    "fa": "هشدار: {0}",
+    "en": "Warning: {0}"
+  },
+  "overLapping": {
+    "fa": "{0} , {1} همپوشانی ندارند",
+    "en": "{0} , {1} is Not OverLapping"
+  },
+  "draftStatusMustBeOne": {
+    "fa": "بیش از یک {0} با وضعیت پیش نویس وجود دارد",
+    "en": "{0} Draft Status Must Be One"
+  },
+  "thereIs": {
+    "fa": "{0} برای {1} وجود دارد",
+    "en": "There is {0} for {1}"
+  },
+  "notAllowedToReturnFromCompleted": {
+    "fa": " {0} مجاز به برگشت از تایید نمی باشد",
+    "en": "{0}  Not allowed to return from Completed"
+  },
+  "notAllowedToUpdate": {
+    "fa": " {0} مجاز به ویرایش نمی باشد",
+    "en": "{0} Not Allowed To Update"
+  },
+  "used": {
+    "fa": "{0} در {1} استفاده شده است",
+    "en": "{0} Used In {1}"
+  },
+  "usedIn": {
+    "fa": " در {0} استفاده شده است",
+    "en": "Is Used In {0}"
+  },
+  "isNegative": {
+    "fa": "{0} منفی است",
+    "en": "{0} Is Negative"
+  },
+  "noAllocatableLeft": {
+    "fa": "تعداد {0} قابل احراز صفر است",
+    "en": "No {0} Allocatable Left"
+  },
+  "shouldBeEqual": {
+    "fa": " {0} با {1} باید برابر باشند",
+    "en": "{0} Should Be Equal With {1}"
+  },
+  "notExistIn": {
+    "fa": "در {0}، {1} وجود ندارد",
+    "en": "In {0}, {1} Does Not Exist"
+  },
+  "isGreaterThanOrEqualToThe": {
+    "fa": "{0} باید بزرگتر یا مساوی  {1} باشد",
+    "en": "{0}  must be Greater than or equal to the {1}"
+  },
+  "salaryCalculationNotExists": {
+    "fa": "محاسبه حقوق وجود ندارد.",
+    "en": "Salary Calculation Not Exists"
+  },
+  "thereIsNoPersonnelActionForPersonnel": {
+    "fa": "برای پرسنل حکمی وجود ندارد",
+    "en": "There Is No PersonnelAction For Personnel"
+  },
+  "completeStatusDateMustBeGreaterThanLastCompleted": {
+    "fa": "تاریخ ثبت {0} جدید باید بزرگتر از تاریخ ثبت آخرین {1} تایید شده باشد",
+    "en": "{0} Complete Status Date Must Be Greater Than Last Completed {1}"
+  },
+  "personnelIsNotActive": {
+    "fa": "پرسنل فعال نیست.",
+    "en": "PersonnelIsNotActive"
+  },
+  "isStartedDash": {
+    "fa": "{0} با (-) نمیتواند شروع شود",
+    "en": "{0} Cannot start with (-)"
+  },
+  "isEndedDash": {
+    "fa": "{0} با (-) نمیتواند پایان یابد ",
+    "en": "{0} Cannot End with (-) "
+  },
+  "salaryWasCalculated": {
+    "fa": "محاسبه حقوق انجام شده است",
+    "en": "Salary Was Calculated"
+  },
+  "normalWorkingIsMoreThanAllowed": {
+    "fa": "مجموع غیبت، مرخصی استعلاجی و مرخصی بدون حقوق بیشتر از کارکرد عادی است",
+    "en": "Sum of absence, unpaid Leaves and sick leave are more than Normal Working"
+  },
+  "leaveRedemption": {
+    "fa": "بازخرید مرخصی",
+    "en": "Leave Redemption"
+  },
+  "leaveBalance": {
+    "fa": "مانده مرخصی",
+    "en": "Leave Balance"
+  },
+  "detail": {
+    "fa": "جزئیات",
+    "en": "Detail"
+  },
+  "taxgroup": {
+    "fa": "گروه مالیاتی",
+    "en": "TaxGroup"
+  },
+  "percent": {
+    "fa": "درصد",
+    "en": "Percent"
+  },
+  "fromSalary": {
+    "fa": "از حقوق",
+    "en": "From Salary"
+  },
+  "toSalary": {
+    "fa": "تا حقوق",
+    "en": "To Salary"
+  },
+  "taxExemption": {
+    "fa": "معافیت مالیاتی",
+    "en": "TaxExemption"
+  },
+  "personnelTaxMeta": {
+    "fa": "شعبه مالیات پرسنل",
+    "en": "PersonnelTax"
+  },
+  "taxBranchMeta": {
+    "fa": " شعبه مالیات",
+    "en": "TaxBranch"
+  },
+  "thereIsEidiTaxCalculationMessage": {
+    "fa": "در این ماه محاسبه مالیات  عیدی وجود دارد",
+    "en": "There Is Eidi Tax Calculation"
+  },
+  "thereIsTaxCalculationInNextMonthsMessage": {
+    "fa": "در ماه های بعد محاسبه مالیات وجود دارد",
+    "en": "There Is Tax Calculation In Next Months"
+  },
+  "thereIsTaxCalculationMessage": {
+    "fa": "در ماه جاری محاسبه مالیات وجود دارد",
+    "en": "There is a tax calculation in the current month"
+  },
+  "workshopTitleIsNull": {
+    "fa": "عنوان کارگاه خالی است",
+    "en": "workshop Title Is Null"
+  },
+  "workshopCodeIsNull": {
+    "fa": "کد کارگاه خالی است",
+    "en": "workshop Code Is Null"
+  },
+  "loanDesignationMeta": {
+    "fa": "تخصیص وام",
+    "en": "Loan Designation"
+  },
+  "loanSettlementMeta": {
+    "fa": " تسویه وام ",
+    "en": " Loan Settlement "
+  },
+  "loanModificationMeta": {
+    "fa": " تعدیل وام ",
+    "en": " Loan Modification "
+  },
+  "loanCalculationMeta": {
+    "fa": " محاسبه وام ",
+    "en": " Loan Calculation "
+  },
+  "remainAmountMeta": {
+    "fa": " مانده ",
+    "en": " Remain Amount "
+  },
+  "paybackAmount": {
+    "fa": " مبلغ بازپرداخت ",
+    "en": " Payback Amount "
+  },
+  "totalAmount": {
+    "fa": " مبلغ کل ",
+    "en": " Total Amount "
+  },
+  "installmentStartDate": {
+    "fa": " تاریخ شروع اقساط ",
+    "en": " InstallmentStartDate "
+  },
+  "inThisYearMonthNoLoanExistMeta": {
+    "fa": "درسال و ماه جاری وام وجود ندارد",
+    "en": "In This Year Month No Loan Exist"
+  },
+  "insuranceBranchMeta": {
+    "fa": " شعبه بیمه",
+    "en": "InsuranceBranch"
+  },
+  "insuranceNo": {
+    "fa": " شماره بیمه",
+    "en": "InsuranceNo"
+  },
+  "mimimumDailyWageMeta": {
+    "fa": " حداقل دستمزد روزانه",
+    "en": "MimimumDailyWage"
+  },
+  "insuranceBranchTitle": {
+    "fa": "شعبه بیمه",
+    "en": "Branch Title"
+  },
+  "employerTitle": {
+    "fa": " عنوان کارفرما",
+    "en": "EmployerTitle"
+  },
+  "insuranceExemptionIsDuplicateMetaData": {
+    "fa": "معافیت بیمه تکراری است.",
+    "en": "Insurance Exemption Is Duplicate"
+  },
+  "insuranceContractWasUsedInSalary": {
+    "fa": "قرارداد بیمه عمر در محاسبه حقوق استفاده شده است",
+    "en": "Endowmnet Was Used In Salary"
+  },
+  "contractNotExist": {
+    "fa": "قرارداد بیمه وجود ندارد",
+    "en": "Contract Not Exist"
+  },
+  "contractInDateWasExist": {
+    "fa": "قرارداد بیمه درمان در بازه زمانی وجود دارد",
+    "en": "Contract In Date Was Exist"
+  },
+  "recruitmentTypeId": {
+    "fa": "شناسه نوع استخدام",
+    "en": "RecruitmentType Id"
+  },
+  "removeSanavat": {
+    "fa": "حذف سنوات",
+    "en": "RemoveSanavat"
+  },
+  "calculationBase": {
+    "fa": "مبنای محاسبه سنوات",
+    "en": "Sanavat CalculationBase"
+  },
+  "effectiveWorkDays": {
+    "fa": "کارکرد موثر سنوات",
+    "en": "Sanavat WorkedDaysType"
+  },
+  "enumIsNotValid": {
+    "fa": "{0} صحیح نیست",
+    "en": "{0} is not valid "
+  },
+  "personnelId": {
+    "fa": "کد پرسنلی",
+    "en": "Personnel Id"
+  },
+  "personnelAction": {
+    "fa": "حکم مشتری",
+    "en": "Personnel Action"
+  },
+  "personnelActionItem": {
+    "fa": "قلم حکم مشتری",
+    "en": "Personnel Action Item"
+  },
+  "personnelSanavatIdKey": {
+    "fa": "شناسه سنوات پرسنل",
+    "en": "Personnel Sanavat Id"
+  },
+  "amountValue": {
+    "fa": "مقدار سنوات",
+    "en": "Sanavat Amount Value"
+  },
+  "eidiCalculationBase": {
+    "fa": "مبنای محاسبه عیدی",
+    "en": "Eidi CalculationBase"
+  },
+  "eidiWorkedDaysType": {
+    "fa": "کارکرد موثر عیدی",
+    "en": "Eidi WorkedDaysType"
+  },
+  "maximumEidi": {
+    "fa": "سقف عیدی",
+    "en": "Maximum Eidi"
+  },
+  "effectiveWorkDaysCode": {
+    "fa": "کارکرد موثر عیدی",
+    "en": "Effective Work Days"
+  },
+  "eidiCalculationBaseValue": {
+    "fa": "مقدار مبنای محسابه عیدی",
+    "en": "Eidi Calculation Base Value"
+  },
+  "eidiAmountValue": {
+    "fa": "مقدار عیدی",
+    "en": "Eidi Amount Value"
+  },
+  "eidiWasCalculatedForThisEmployee": {
+    "fa": "عیدی برای این کارمند محاسبه شده",
+    "en": "Eidi Was Calculated For This Employee"
+  },
+  "eidiConfigNotExist": {
+    "fa": "تنظیمات عیدی وجود ندارد",
+    "en": "EidiConfigNotExist"
+  },
+  "salary": {
+    "fa": "محاسبه حقوق",
+    "en": "Salary"
+  },
+  "eidiCanNotRemove": {
+    "fa": "حذف عیدی به دلیل وجود حقوق در ماه آینده امکانپذیر نمیباشد",
+    "en": "Eidi could not removed because of existence salary in next month"
+  },
+  "eidiNotFound": {
+    "fa": "عیدی مورد نظر پیدا نشد",
+    "en": "Eidi could not found to remove"
+  },
+  "eidiCalculationNotExist": {
+    "fa": "محاسبه عیدی وجود ندارد.",
+    "en": "Eidi Calculation Not Exist"
+  },
+  "netPayableInEidiAccountStructureMappingNotMapped": {
+    "fa": "خالص پرداختنی در ساختار حساب عیدی تعریف نشده است.",
+    "en": "NetPayback In Eidi Account Structure Mapping Not Mapped"
+  },
+  "taxOfEidiInAccountStructureMappingNotMapped": {
+    "fa": "مالیات در ساختار حساب عیدی تعریف نشده است.",
+    "en": "Tax In Eidi Account Structure Mapping Not Mapped"
+  },
+  "eidiBenefitAccountStructureInEidiNotMapped": {
+    "fa": "مبلغ عیدی در ساختار حساب عیدی تعریف نشده است.",
+    "en": "Eidi Benefit Account Structure Not Mapped"
+  },
+  "creditInLeaveRedemptionAccountStructureMappingNotMapped": {
+    "fa": "بستانکار در ساختار حساب بازخرید مرخصی تعریف نشده است.",
+    "en": "Credit In LeaveRedemption Account Structure Mapping Not Mapped"
+  },
+  "debitInLeaveRedemptionAccountStructureMappingNotMapped": {
+    "fa": "بدهکار در ساختار حساب بازخرید مرخصی تعریف نشده است.",
+    "en": "Debit In LeaveRedemption Account Structure Mapping Not Mapped"
+  },
+  "benefitInEidiAccountStructureMappingNotMapped": {
+    "fa": "مزایا در ساختار حساب عیدی تعریف نشده است.",
+    "en": "Benefit In Eidi Account Structure Mapping Not Mapped"
+  },
+  "eidiAccountStructureMappingNotExist": {
+    "fa": "ساختار حساب عیدی وجود ندارد.",
+    "en": "Eidi Account Structure Mapping Not Exist"
+  },
+  "debtNotMapped": {
+    "fa": "ساختار حساب برای اقلام بدهی ماه قبل یا علی الحساب ماه جاری تعیین نشده است",
+    "en": "The account structure for the previous month debt items or the current month debt has not been determined"
+  },
+  "netSalaryNotMapped": {
+    "fa": "ساختار حساب برای خالص پرداختنی تعیین نشده است",
+    "en": "The account structure for the NetSalary has not been determined"
+  },
+  "salaryItemsNotMapped": {
+    "fa": "ساختار حساب برای اقلام محاسباتی تعیین نشده است",
+    "en": "The account structure for the Salary Items has not been determined"
+  },
+  "insuranceItemsNotMapped": {
+    "fa": "ساختار حساب برای اقلام بیمه تعیین نشده است",
+    "en": "The account structure for the Insurance Items has not been determined"
+  },
+  "monthlyConstantTaxNotMapped": {
+    "fa": "ساختار حساب برای مالیات مستمر ماه تعیین نشده است",
+    "en": "The account structure for the Monthly Constant Tax has not been determined"
+  },
+  "accountingVoucherNotFound": {
+    "fa": "سند حسابداری یافت نشد.",
+    "en": "Accounting Voucher Not Found"
+  },
+  "contactSupport": {
+    "fa": "با پشتیبانی تماس بگیرید.",
+    "en": "contact support"
+  },
+  "headerIsNull": {
+    "fa": "هدر سند حسابداری خالی است، با پشتیبانی تماس بگیرید.",
+    "en": "Accounting voucher header is empty, contact support."
+  },
+  "detailIsNull": {
+    "fa": "اقلام سند حسابداری خالی است",
+    "en": "Accounting voucher details is empty"
+  },
+  "branchNotFound": {
+    "fa": "شعبه یافت نشد",
+    "en": "Branch Not Found"
+  },
+  "voucherKindNotFound": {
+    "fa": "نوع سند یافت نشد، با پشتیبانی تماس بگیرید",
+    "en": "Voucher Kind Not Found, contact support."
+  },
+  "fiscalYearNotFound": {
+    "fa": "سال مالی در حسابداری یافت نشد، با کارشناس حسابداری تماس بگیرید",
+    "en": "Fiscal year not found in accounting, Contact an accounting expert"
+  },
+  "numberingNotFound": {
+    "fa": "شماره گذاری سند انجام نشده است، با کارشناس حسابداری تماس بگیرید",
+    "en": "Numbering not found in accounting, Contact an accounting expert"
+  },
+  "subLedgerNotFound": {
+    "fa": "معین یافت نشد، با کارشناس حسابداری تماس بگیرید",
+    "en": "SubLedger not found, Contact an accounting expert"
+  },
+  "firstDetailLedgerNotFound": {
+    "fa": "تفصیل 1 یافت نشد، با کارشناس حسابداری تماس بگیرید",
+    "en": "First Detail Ledger not found, Contact an accounting expert"
+  },
+  "secondDetailLedgerNotFound": {
+    "fa": "تفصیل 2 یافت نشد، با کارشناس حسابداری تماس بگیرید",
+    "en": "Second Detail Ledger not found, Contact an accounting expert"
+  },
+  "thirdDetailLedgerNotFound": {
+    "fa": "تفصیل 3 یافت نشد، با کارشناس حسابداری تماس بگیرید",
+    "en": "Third Detail Ledger not found, Contact an accounting expert"
+  },
+  "priceNotFound": {
+    "fa": "مبلغ یافت نشد، با پشتیبانی تماس بگیرید.",
+    "en": "Price not found, contact support."
+  },
+  "voucherDateNotFound": {
+    "fa": "تاریخ سند یافت نشد",
+    "en": "Voucher Date Not Found"
+  },
+  "dateIsInRangeOfConfirmedVouchers": {
+    "fa": "تاریخ سند در محدود اسناد تایید شده است",
+    "en": "Date Is In Range Of Confirmed Vouchers"
+  },
+  "theVoucherIsBeingClosed": {
+    "fa": "سند درحال بسته شدن وجود دارد",
+    "en": "The voucher is being closed"
+  },
+  "detailsAreNotBalanced": {
+    "fa": "دیتیل تراز نیست",
+    "en": "Details Are Not Balanced"
+  },
+  "detailDescriptionIsEmpty": {
+    "fa": "شرح دیتیل خالی است",
+    "en": "Detail Description Is Empty"
+  },
+  "firstDetailLedgerIdEmpty": {
+    "fa": "تفصیل 1 خالی است",
+    "en": "First Detail Ledger Empty"
+  },
+  "firstDetailLedgerIsNotMappedToSubLedger": {
+    "fa": "تفصیل 1 با معین مرتبط نیست",
+    "en": "First DetailLedger IsNot Mapped To SubLedger"
+  },
+  "secondDetailLedgerIsNotMappedToSubLedger": {
+    "fa": "تفصیل 2 با معین مرتبط نیست",
+    "en": "Second DetailLedger IsNot Mapped To SubLedger"
+  },
+  "thirdDetailLedgerIsNotMappedToSubLedger": {
+    "fa": "شماره پیگیری با معین در ارتباط نیست",
+    "en": "Third DetailLedger IsNot Mapped To SubLedger"
+  },
+  "amountIsNotMappedToSubLedger": {
+    "fa": "مقدار با معین در ارتباط نیست",
+    "en": "Amount Is Not Mapped To SubLedger"
+  },
+  "followUpDateIsNotMappedToSubLedger": {
+    "fa": "تاریخ پیگیری با معین در ارتباط نیست",
+    "en": "FollowUp Date Is Not Mapped To SubLedger"
+  },
+  "subLedgerIsEmpty": {
+    "fa": "معین خالی است",
+    "en": "SubLedger Is Empty"
+  },
+  "firstDetailLedgerIsEmpty": {
+    "fa": "تفصیل 3 با معین مرتبط نیست",
+    "en": "First Detail Ledger Is Empty"
+  },
+  "secondDetailLedgerIsEmpty": {
+    "fa": "تفصیل 2 خالی است",
+    "en": "Second Detail Ledger Is Empty"
+  },
+  "thirdDetailLedgerIsEmpty": {
+    "fa": "تفصیل 3 خالی است",
+    "en": "Third Detail Ledger Is Empty"
+  },
+  "subLedgerIsInactive": {
+    "fa": "معین غیر فعال است",
+    "en": "SubLedger Is Inactive"
+  },
+  "followUpNoIsEmpty": {
+    "fa": "شماره پیگیری خالی است",
+    "en": "Follow Up No Is Empty"
+  },
+  "followUpDateIsEmpty": {
+    "fa": "تاریخ پیگیری خالی است",
+    "en": "Follow Up Date Is Empty"
+  },
+  "valueIsEmpty": {
+    "fa": "مقدار خالی است",
+    "en": "Value Is Empty"
+  },
+  "debitOrCreditIsEmpty": {
+    "fa": "بدهکار یا بستانکار خالی است",
+    "en": "Debit Or Credit Is Empty"
+  },
+  "accountingLicenseIsNotExist": {
+    "fa": "مجوز سیستم حسابداری موجود نیست",
+    "en": "Accounting License Is Not Exist"
+  },
+  "deletionInThisStateIsNotPossible": {
+    "fa": "امکان حذف در این وضعیت وجود ندارد",
+    "en": "Deletion In This State Is Not Possible"
+  },
+  "clientAddressInNotValid": {
+    "fa": "آدرس کلاینت معتبر است",
+    "en": "Client Address In Not Valid"
+  }
+}
